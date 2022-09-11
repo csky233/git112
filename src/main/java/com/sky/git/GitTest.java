@@ -12,5 +12,6 @@ public class GitTest {
         System.out.println("master idea pull test");
         System.out.println("gitee idea pull test");
         System.out.println("new day github push test");
+        //this is test to testing github pull way is ok。
     }
 }
